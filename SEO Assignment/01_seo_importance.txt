@@ -1,0 +1,17 @@
+✔ SEO stands for Search Engine Optimization, it helps in optimization of web sites to rank on the search engines.
+✔ It helps websites to achieve higher rank in search engine, when people search for keywords realted to their services.
+✔ It helps to increse traffic to your websites
+
+Importance of SEO:
+------------------
+✔ SEO helps your website show up on Google, bringing more visitors.
+✔ It builds trust, making people think your site is reliable.
+✔ Better User Experience
+✔ Good SEO keeps you competitive in the online world
+
+=> Main Elements of SEO :
+
+✔ Keywork selection
+✔ Image alt attribute
+✔ Title and meta description
+✔ Contents

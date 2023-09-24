@@ -1,0 +1,9 @@
+✔ A favicon is a small square icon associated with a particular website.
+✔ The term favicon combines two words: “favorite” and “icon.”
+✔ So, a favicon is your company’s favorite icon. It’s a symbol that represents your brand or website.So, a favicon is your company’s favorite icon. It’s a symbol that represents your brand or website.
+✔ It appears mostly in browser tabs, bookmarks, adderss bar.
+✔ The size of fav icon is very small.
+
+✔ favicon can also draw a user's attention
+✔ It helps in branding
+
